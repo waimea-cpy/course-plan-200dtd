@@ -1,2 +1,4 @@
-# course-plan-200dtd
-Course and lesson planning for 200DTD
+# DT Course Plan for 200DTD
+
+Learning goals and success criteria for 200DTD
+
